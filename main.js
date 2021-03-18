@@ -9,7 +9,7 @@ Video.hide();
 }
 
 function draw(){
-image(Video, 230, 150, 220, 200);
+image(Video, 230, 150, 210, 200);
 
 fill(0, 138.975, 138.975);
 stroke(0, 138.975, 138.975);
